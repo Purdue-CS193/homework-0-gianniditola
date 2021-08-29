@@ -1,5 +1,8 @@
 # Gianni's First CS193 Homework
 ## CS193 Favorite Things
+- I love that CS193 is taught by upperclassmen, giving us students a more relaxed CS environment
+- I am excited to learn about all of the different tools CS has to offer that normal classroom settings would not offer
+- Having a class in the WALC is super fun because the building just yells modern academia
 
 ## Welcome to GitHub Pages
 
